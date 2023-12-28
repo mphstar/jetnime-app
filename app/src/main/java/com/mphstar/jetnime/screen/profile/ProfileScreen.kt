@@ -40,8 +40,8 @@ fun ProfileScreen(
     modifier: Modifier = Modifier
 ) {
     JetnimeTheme (
-        statusBarColor = Color.Blue,
-        isStatusBarDark = false
+        statusBarColor = Color.White,
+        isStatusBarDark = true
     ) {
         Column(
             modifier = modifier
